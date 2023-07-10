@@ -15,3 +15,6 @@ I completed this lab for my Capstone project. In it, I explore and plot the data
 I completed this project for the Excel Course I took through the aforementioned IBM Data Analyst Certificate. It mainly demonstrates my use of pivot tables to visualize car sales data. 
 
 5-Course6FinalProject.ipynb: This was part of the final exam for the "Databases and SQL for Data Science with Python" course I took through the same IBM program. It involves using SQL to query and analyze real-world data about Chicago. 
+
+6-June2023SocialMediaPresentationAnon.pptx
+This is an anonymized monthly social media report I completed for a nonprofit organization I work with as one of their data analysts. I created the dashboards in PowerBI and then incorporated them into my monthly report in the form of a PowerPoint presentation. 
